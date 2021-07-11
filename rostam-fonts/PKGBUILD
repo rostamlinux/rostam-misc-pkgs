@@ -2,7 +2,7 @@
 
 pkgname=rostam-fonts
 pkgver=1.0
-pkgrel=6
+pkgrel=7
 pkgdesc="Full Fonts for RostamLinux"
 arch=('any')
 url="https://github.com/rostamlinux/rostam-misc-pkgs/tree/main/rostam-fonts"
