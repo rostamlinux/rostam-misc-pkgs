@@ -1,8 +1,8 @@
 # Maintainer: Mahdy Mirzade <me@mahdym.ir>
 
 pkgname=rostam-fonts
-pkgver=1.0
-pkgrel=7
+pkgver=1.1
+pkgrel=1
 pkgdesc="Full Fonts for RostamLinux"
 arch=('any')
 url="https://github.com/rostamlinux/rostam-misc-pkgs/tree/main/rostam-fonts"
