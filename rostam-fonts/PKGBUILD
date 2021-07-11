@@ -2,14 +2,14 @@
 
 pkgname=rostam-fonts
 pkgver=1.1
-pkgrel=4
+pkgrel=3
 pkgdesc="Full Fonts for RostamLinux"
 arch=('any')
 url="https://github.com/rostamlinux/rostam-misc-pkgs/tree/main/rostam-fonts"
 license=('GPL3')
 provides=($pkgname)
 conflicts=($pkgname)
-depends=('pango' 'adobe-source-sans-fonts' 'adobe-source-code-pro-fonts' 'adobe-source-serif-fonts' 'adobe-source-han-serif-otc-fonts' 'ttf-joypixels' 'ttf-dejavu' 'ttf-jetbrains-mono' 'ttf-opensans' 'ttf-hack' 'noto-fonts-emoji')
+depends=('pango' 'adobe-source-sans-fonts' 'adobe-source-code-pro-fonts' 'adobe-source-serif-fonts' 'adobe-source-han-serif-otc-fonts' 'ttf-joypixels' 'ttf-dejavu' 'ttf-jetbrains-mono' 'ttf-opensans' 'ttf-hack')
 
 package() {
     	(find * -type f -exec install -Dm 644 "{}" "$pkgdir/usr/share/fonts/{}" \;)
