@@ -1,0 +1,23 @@
+{
+	"BUILD_DIR" : "/home/mahdy/z/github/rostamlinux/rostam-packages/calamares/src/calamares-3.2.47/build/src/calamares/calamares_bin_autogen",
+	"CMAKE_BINARY_DIR" : "/home/mahdy/z/github/rostamlinux/rostam-packages/calamares/src/calamares-3.2.47/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/mahdy/z/github/rostamlinux/rostam-packages/calamares/src/calamares-3.2.47/build/src/calamares",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/mahdy/z/github/rostamlinux/rostam-packages/calamares/src/calamares-3.2.47/src/calamares",
+	"CMAKE_SOURCE_DIR" : "/home/mahdy/z/github/rostamlinux/rostam-packages/calamares/src/calamares-3.2.47",
+	"INCLUDE_DIR" : "/home/mahdy/z/github/rostamlinux/rostam-packages/calamares/src/calamares-3.2.47/build/src/calamares/calamares_bin_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/mahdy/z/github/rostamlinux/rostam-packages/calamares/src/calamares-3.2.47/src/calamares/calamares-sidebar.qml",
+		"/home/mahdy/z/github/rostamlinux/rostam-packages/calamares/src/calamares-3.2.47/src/calamares/calamares-navigation.qml"
+	],
+	"LOCK_FILE" : "/home/mahdy/z/github/rostamlinux/rostam-packages/calamares/src/calamares-3.2.47/build/src/calamares/CMakeFiles/calamares_bin_autogen.dir/AutoRcc_calamares_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "calamares" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_calamares.cpp",
+	"RCC_EXECUTABLE" : "/usr/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/mahdy/z/github/rostamlinux/rostam-packages/calamares/src/calamares-3.2.47/build/src/calamares/CMakeFiles/calamares_bin_autogen.dir/AutoRcc_calamares_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/mahdy/z/github/rostamlinux/rostam-packages/calamares/src/calamares-3.2.47/src/calamares/calamares.qrc",
+	"VERBOSITY" : 0
+}
